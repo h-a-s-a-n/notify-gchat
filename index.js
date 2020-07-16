@@ -11,7 +11,6 @@ const messageBody = (input, options) => {
   } else if (options.type === "error") {
     output = "Error:\n```\n" + input + "\n```";
   }
-  console.log(output);
   return output;
 };
 
