@@ -1,4 +1,3 @@
-import fetch from "cross-fetch";
 const defaultOutput = {
   success: false,
   errors: [],
