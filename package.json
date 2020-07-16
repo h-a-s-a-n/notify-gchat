@@ -1,0 +1,25 @@
+{
+  "name": "notify-gchat",
+  "version": "0.1.0",
+  "description": "Send (debug) logs to Google Chat",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-a-s-a-n/notify-gchat.git"
+  },
+  "keywords": [
+    "notify",
+    "gchat",
+    "webhook",
+    "google-chat",
+    "chat",
+    "log"
+  ],
+  "author": "Hasan Sanli <hasan@cloudflare.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-a-s-a-n/notify-gchat/issues"
+  },
+  "homepage": "https://github.com/h-a-s-a-n/notify-gchat#readme"
+}
